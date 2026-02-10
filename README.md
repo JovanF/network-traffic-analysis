@@ -24,7 +24,7 @@ sudo tcpdump -i enp0s3 -w capture1.pcap -c 1000
 - Discovered connections to Google, Mozilla location services, AT&T infrastructure, and third-party tracking (TurboTax/Intuit)
 - Identified that websites contact multiple supporting services beyond the main domain
 
-![DNS Traffic](screenshots/dns-traffic.png)
+![DNS Traffic](screenshots/dns-capture.png)
 
 **HTTPS Traffic Investigation:**
 - Filtered encrypted traffic on port 443
